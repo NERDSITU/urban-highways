@@ -1,0 +1,6 @@
+dist: "beeline" # string; either "beeline" or "walking" (how to compute the distance between two users?)
+density: 1  # int; either 0 or 1 (for social null model, preferential attachment based on density: True or False?)
+rand_layout: 0 # int; either 0 or 1 (should the street layout be randomized? (0 for No, 1 for Yes)
+seed: 42 # int; random seed for social null model
+cbsa: 16980 # int; one of: 12420 (Austin), 16980 (Chicago), 33100 (Miami), 38300 (Pittsburgh), 38900 (Portland) 
+### Note: setting "rand_layout: 1" will require more memory and a longer run time. ###
