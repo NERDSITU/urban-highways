@@ -167,3 +167,6 @@ twitter_users_tract.csv
 
 # gitignore data sets of entire OSM street networks
 *allprivate*
+
+# cache
+*/cache/
