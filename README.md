@@ -4,14 +4,17 @@ Open source code for the forthcoming research paper, currently available as prep
 
 > Aiello, Vybornova, Juhász, Szell, & Bokányi (2024) Urban highways are barriers for social ties [arxiv.org/abs/2404.11596](https://arxiv.org/abs/2404.11596)
 
-Luca Aiello<sup>1</sup>, Anastassia Vybornova<sup>1</sup>, Sándor Juhász<sup>2</sup>, Michael Szell<sup>1</sup>, Eszter Bokányi<sup>3</sup>
+Luca Aiello<sup>1,2</sup>, Anastassia Vybornova<sup>1</sup>, Sándor Juhász<sup>3</sup>, Michael Szell<sup>1,2,3,4</sup>, Eszter Bokányi<sup>5</sup>
 
-1 NEtworks, Data and Society (NERDS), Computer Science Department, IT University of Copenhagen, anvy@itu.dk
+1 IT University of Copenhagen, Copenhagen, 2300, Denmark
 
-2 Sándor's affiliations
+2 Pioneer Centre for AI, Copenhagen, 1350, Denmark
 
-3 Eszter's affiliations
+3 Complexity Science Hub Vienna, Vienna, 1080, Austria
 
+4 ISI Foundation, Turin, 10126, Italy
+
+5 University of Amsterdam, Amsterdam, 1018WV, The Netherlands
 
 ## Contents of the repository
 
