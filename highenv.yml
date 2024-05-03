@@ -1,0 +1,21 @@
+name: highenv
+channels:
+  - conda-forge
+  - conda
+  - defaults
+dependencies:  
+  - python=3.12
+  - pandas>=2.0y
+  - geopandas
+  - shapely
+  - contextily
+  - ipykernel
+  - jupyter
+  - tqdm
+  - pyproj
+  - pyarrow
+  - osmnx>1.9.0 #simplify with attributes
+  - networkx
+  - python-igraph
+  - seaborn
+  - statsmodels
