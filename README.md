@@ -29,7 +29,7 @@ Luca Aiello<sup>1,2</sup>, Anastassia Vybornova<sup>1</sup>, Sándor Juhász<sup
     * `error_logs` & `/social_networks/` & `/social_networks_null/` & `/street_networks_simplified/`: output of `workflow_dummydata.ipynb`
     * `cbsacode.csv` (list of 50 sample cities)
     * `tract_ids.gpkg` (unique census tract codes for all 50 cities)
-* `/results/` & `/results_walking/`: output of `01_workflow.ipynb`
+* `/results/` & `/results_walking/`: output of `01_workflow.ipynb` (test run for Chicago)
 * `/plots/`: output of `01_workflow.ipynb` and `02_plots_paper.ipynb`
 
 ## Instructions
