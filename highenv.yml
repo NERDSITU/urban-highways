@@ -20,3 +20,4 @@ dependencies:
   - seaborn
   - statsmodels
   - momepy
+  - esda
