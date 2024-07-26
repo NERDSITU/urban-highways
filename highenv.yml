@@ -19,3 +19,4 @@ dependencies:
   - python-igraph
   - seaborn
   - statsmodels
+  - momepy
