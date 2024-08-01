@@ -1,0 +1,27 @@
+Atlanta:
+  "railway": ["rail", "abandoned"]
+  "waterway": ["river"]
+
+Austin:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
+Chicago:
+  "railway": ["rail"]
+  "waterway": ["river", "canal"]
+
+Cleveland:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
+Detroit:
+  "railway": ["rail"]
+  "waterway": ["river", "canal"]
+
+Jacksonville:
+  "railway": ["rail"]
+  "waterway": ["river", "canal"]
+
+Milwaukee:
+  "railway": ["rail"]
+  "waterway": ["river"]
