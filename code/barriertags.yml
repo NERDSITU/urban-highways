@@ -6,13 +6,49 @@ Austin:
   "railway": ["rail"]
   "waterway": ["river"]
 
+Baltimore:
+  "railway": ["rail"]
+  "waterway": ["river", "flowline"]
+
+Birmingham:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
+Boston:
+  "railway": ["rail"]
+  "waterway": ["river", "flowline", "canal"]
+
+Buffalo:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
+Charlotte:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
 Chicago:
   "railway": ["rail"]
   "waterway": ["river", "canal"]
 
+Cincinnati:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
 Cleveland:
   "railway": ["rail"]
   "waterway": ["river"]
+
+Columbus:
+  "railway": ["rail", "disused"]
+  "waterway": ["river"]
+
+Dallas:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
+Denver:
+  "railway": ["rail"]
+  "waterway": ["river", "canal"]
 
 Detroit:
   "railway": ["rail"]
