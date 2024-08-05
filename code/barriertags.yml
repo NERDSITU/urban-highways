@@ -54,10 +54,70 @@ Detroit:
   "railway": ["rail"]
   "waterway": ["river", "canal"]
 
+Hartford:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
+Houston:
+  "railway": ["rail"]
+  "waterway": ["river", "canal"]
+
+Indianapolis:
+  "railway": ["rail"]
+  "waterway": ["river", "canal"]
+
 Jacksonville:
   "railway": ["rail"]
   "waterway": ["river", "canal"]
 
+KansasCity:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
+LasVegas:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
+LosAngeles:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
+Louisville:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
+Memphis:
+  "railway": ["rail", "disused"]
+  "waterway": ["river", "canal"]
+
+Miami:
+  "railway": ["rail"]
+  "waterway": ["canal"]
+
 Milwaukee:
   "railway": ["rail"]
   "waterway": ["river"]
+
+Minneapolis:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
+Nashville:
+  "railway": ["rail", "disused"]
+  "waterway": ["river"]
+
+NewOrleans:
+  "railway": ["rail"]
+  "waterway": ["river", "canal", "dam", "fairway"]
+
+NewYork:
+  "railway": ["rail"]
+  "waterway": ["river", "tidal_channel", "link", "canal", "fairway", "flowline"]
+
+OklahomaCity:
+  "railway": ["rail"]
+  "waterway": ["river", "canal"]
+
+Orlando:
+  "railway":
+  "waterway": ["canal", "river", "stream", "drain"]
