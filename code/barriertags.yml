@@ -119,7 +119,7 @@ OklahomaCity:
   "waterway": ["river", "canal"]
 
 Orlando:
-  "railway":
+  "railway": ["rail"]
   "waterway": ["canal", "river", "stream", "drain"]
 
 Philadelphia:
