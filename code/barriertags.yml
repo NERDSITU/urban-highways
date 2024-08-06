@@ -121,3 +121,79 @@ OklahomaCity:
 Orlando:
   "railway":
   "waterway": ["canal", "river", "stream", "drain"]
+
+Philadelphia:
+  "railway": ["rail"]
+  "waterway": ["flowline", "fairway", "river", "canal", ""]
+
+Phoenix:
+  "railway": ["rail"]
+  "waterway": ["river", "canal"]
+
+Pittsburgh:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
+Portland:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
+Providence:
+  "railway": ["rail"]
+  "waterway": ["river", "tidal_channel", "flowline"]
+
+Raleigh:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
+Richmond:
+  "railway": ["rail"]
+  "waterway": ["river", "canal"]
+
+Riverside:
+  "railway": ["rail"]
+  "waterway": ["river", "canal"]
+
+Sacramento:
+  "railway": ["rail"]
+  "waterway": ["river", "flowline", "fairway", "canal"]
+
+SaltLakeCity:
+  "railway": ["rail"]
+  "waterway": ["river", "canal"]
+
+SanAntonio:
+  "railway": ["rail"]
+  "waterway": ["river", "canal"]
+
+SanDiego:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
+SanFrancisco:
+  "railway": ["rail"]
+  "waterway": ["river", "tidal_channel", "canal"]
+
+SanJose:
+  "railway": ["rail"]
+  "waterway": ["river", "canal"]
+
+Seattle:
+  "railway": ["rail"]
+  "waterway": ["river", "canal"]
+
+StLouis:
+  "railway": ["rail"]
+  "waterway": ["river", "canal"]
+
+Tampa:
+  "railway": ["rail"]
+  "waterway": ["canal", "river"]
+
+VirginiaBeach:
+  "railway": ["rail"]
+  "waterway": ["fairway", "river", "flowline", "canal"]
+
+Washington:
+  "railway": ["rail"]
+  "waterway": ["river", "canal"]
