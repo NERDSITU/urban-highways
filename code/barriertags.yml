@@ -92,7 +92,7 @@ Memphis:
 
 Miami:
   "railway": ["rail"]
-  "waterway": ["canal"]
+  "waterway": ["canal", "river"]
 
 Milwaukee:
   "railway": ["rail"]
