@@ -1,0 +1,199 @@
+Atlanta:
+  "railway": ["rail", "abandoned"]
+  "waterway": ["river"]
+
+Austin:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
+Baltimore:
+  "railway": ["rail"]
+  "waterway": ["river", "flowline"]
+
+Birmingham:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
+Boston:
+  "railway": ["rail"]
+  "waterway": ["river", "flowline", "canal"]
+
+Buffalo:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
+Charlotte:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
+Chicago:
+  "railway": ["rail"]
+  "waterway": ["river", "canal"]
+
+Cincinnati:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
+Cleveland:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
+Columbus:
+  "railway": ["rail", "disused"]
+  "waterway": ["river"]
+
+Dallas:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
+Denver:
+  "railway": ["rail"]
+  "waterway": ["river", "canal"]
+
+Detroit:
+  "railway": ["rail"]
+  "waterway": ["river", "canal"]
+
+Hartford:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
+Houston:
+  "railway": ["rail"]
+  "waterway": ["river", "canal"]
+
+Indianapolis:
+  "railway": ["rail"]
+  "waterway": ["river", "canal"]
+
+Jacksonville:
+  "railway": ["rail"]
+  "waterway": ["river", "canal"]
+
+KansasCity:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
+LasVegas:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
+LosAngeles:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
+Louisville:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
+Memphis:
+  "railway": ["rail", "disused"]
+  "waterway": ["river", "canal"]
+
+Miami:
+  "railway": ["rail"]
+  "waterway": ["canal", "river"]
+
+Milwaukee:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
+Minneapolis:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
+Nashville:
+  "railway": ["rail", "disused"]
+  "waterway": ["river"]
+
+NewOrleans:
+  "railway": ["rail"]
+  "waterway": ["river", "canal", "dam", "fairway"]
+
+NewYork:
+  "railway": ["rail"]
+  "waterway": ["river", "tidal_channel", "link", "canal", "fairway", "flowline"]
+
+OklahomaCity:
+  "railway": ["rail"]
+  "waterway": ["river", "canal"]
+
+Orlando:
+  "railway": ["rail"]
+  "waterway": ["canal", "river", "stream", "drain"]
+
+Philadelphia:
+  "railway": ["rail"]
+  "waterway": ["flowline", "fairway", "river", "canal", ""]
+
+Phoenix:
+  "railway": ["rail"]
+  "waterway": ["river", "canal"]
+
+Pittsburgh:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
+Portland:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
+Providence:
+  "railway": ["rail"]
+  "waterway": ["river", "tidal_channel", "flowline"]
+
+Raleigh:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
+Richmond:
+  "railway": ["rail"]
+  "waterway": ["river", "canal"]
+
+Riverside:
+  "railway": ["rail"]
+  "waterway": ["river", "canal"]
+
+Sacramento:
+  "railway": ["rail"]
+  "waterway": ["river", "flowline", "fairway", "canal"]
+
+SaltLakeCity:
+  "railway": ["rail"]
+  "waterway": ["river", "canal"]
+
+SanAntonio:
+  "railway": ["rail"]
+  "waterway": ["river", "canal"]
+
+SanDiego:
+  "railway": ["rail"]
+  "waterway": ["river"]
+
+SanFrancisco:
+  "railway": ["rail"]
+  "waterway": ["river", "tidal_channel", "canal"]
+
+SanJose:
+  "railway": ["rail"]
+  "waterway": ["river", "canal"]
+
+Seattle:
+  "railway": ["rail"]
+  "waterway": ["river", "canal"]
+
+StLouis:
+  "railway": ["rail"]
+  "waterway": ["river", "canal"]
+
+Tampa:
+  "railway": ["rail"]
+  "waterway": ["canal", "river"]
+
+VirginiaBeach:
+  "railway": ["rail"]
+  "waterway": ["fairway", "river", "flowline", "canal"]
+
+Washington:
+  "railway": ["rail"]
+  "waterway": ["river", "canal"]

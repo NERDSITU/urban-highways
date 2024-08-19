@@ -170,3 +170,8 @@ twitter_users_tract.csv
 
 # cache
 */cache/
+
+# don't push large or too detailed data sets
+data/natural_barriers/raw/*
+data/natural_barriers/plots/*
+data/natural_barriers/polygons/*_natbar.gpkg
