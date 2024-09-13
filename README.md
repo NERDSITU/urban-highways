@@ -4,7 +4,7 @@
 
 Open source code for the forthcoming research paper, currently available as preprint:
 
-> Aiello, Vybornova, Juhász, Szell, & Bokányi (2024) Urban highways are barriers for social ties [arxiv.org/abs/2404.11596](https://arxiv.org/abs/2404.11596)
+> Aiello, Vybornova, Juhász, Szell, & Bokányi (2024) Urban highways are barriers to social ties [arxiv.org/abs/2404.11596](https://arxiv.org/abs/2404.11596)
 
 Luca Aiello<sup>1,2</sup>, Anastassia Vybornova<sup>1</sup>, Sándor Juhász<sup>3</sup>, Michael Szell<sup>1,2,3,4</sup>, Eszter Bokányi<sup>5</sup>
 
