@@ -1,4 +1,4 @@
-# urban-highways
+# Urban highways are barriers to social ties
 
 Open source code for the forthcoming research paper, currently available as preprint:
 
