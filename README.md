@@ -1,4 +1,4 @@
-# urban-highways
+# Urban highways are barriers to social ties
 
 Open source code for the forthcoming research paper, currently available as preprint:
 
@@ -22,6 +22,9 @@ Luca Aiello<sup>1,2</sup>, Anastassia Vybornova<sup>1</sup>, Sándor Juhász<sup
     * `00_randomize_twitter.ipynb`: code to generate random Twitter data (does **not** need to be re-run)
     * `01_workflow.ipynb`: main workflow from paper 
     * `02_plots_paper.ipynb`: code to reproduce plots from paper
+    * `03_regressions.R`: code to reproduce regressions
+    * `04a_naturalbarriers_create.ipynb`: code that downloads natural barrier (railway and waterway) data from OpenStreetMap
+    * `04b_naturalbarriers_explore.ipynb`: notebook for manual exploration of natural barrier data
     * `config.yml`: workflow settings for `workflow.ipynb` 
     * `utils.py`: helper functions for workflow
 * `/data/`
@@ -29,6 +32,7 @@ Luca Aiello<sup>1,2</sup>, Anastassia Vybornova<sup>1</sup>, Sándor Juhász<sup
     * `error_logs` & `/social_networks/` & `/social_networks_null/` & `/street_networks_simplified/`: output of `workflow_dummydata.ipynb`
     * `cbsacode.csv` (list of 50 sample cities)
     * `tract_ids.gpkg` (unique census tract codes for all 50 cities)
+    * `/regressions/` all data necessary to reproduce regression results
 * `/results/` & `/results_walking/`: output of `01_workflow.ipynb` (test run for Chicago)
 * `/plots/`: output of `01_workflow.ipynb` and `02_plots_paper.ipynb`
 
@@ -46,3 +50,8 @@ conda activate highenv
 3. Run `./code/01_workflow.ipynb` with conda environment `highenv`
 
 4. Run `./code/02_plots_paper.ipynb` with conda environment `highenv`
+
+## Contact
+
+* Corresponding author: [Luca Aiello](mailto:luai@itu.dk)
+* Maintaining this repository: [Anastassia Vybornova](mailto:anvy@itu.dk)
