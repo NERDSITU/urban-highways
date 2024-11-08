@@ -175,3 +175,6 @@ twitter_users_tract.csv
 data/natural_barriers/raw/*
 data/natural_barriers/plots/*
 data/natural_barriers/polygons/*_natbar.gpkg
+
+# don't push irrelevant notebooks
+code/04x*
