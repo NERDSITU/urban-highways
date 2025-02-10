@@ -2,7 +2,7 @@
 
 ![Highway splash image](assets/kyle-murfin-zi_y7euEKfQ-unsplash.jpg)
 
-Open source code for the forthcoming research paper, currently available as preprint:
+Open source data and code for the forthcoming research paper, currently available as preprint:
 
 > Aiello, Vybornova, Juhász, Szell, & Bokányi (2024) Urban highways are barriers to social ties [arxiv.org/abs/2404.11596](https://arxiv.org/abs/2404.11596)
 
