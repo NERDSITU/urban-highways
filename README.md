@@ -2,11 +2,15 @@
 
 ![Highway splash image](assets/kyle-murfin-zi_y7euEKfQ-unsplash.jpg)
 
-Open source data and code for the forthcoming research paper, currently available as preprint:
+Open source data and code for the research paper published in PNAS:
 
-> Aiello, Vybornova, Juhász, Szell, & Bokányi (2024) Urban highways are barriers to social ties [arxiv.org/abs/2404.11596](https://arxiv.org/abs/2404.11596)
+> L.M. Aiello, A. Vybornova, S. Juhász, M. Szell, E. Bokányi  
+Urban highways are barriers to social ties  
+[*PNAS* 122(10), e2408937122 (2025)](https://www.pnas.org/doi/10.1073/pnas.2408937122)  
 
-Luca Aiello<sup>1,2</sup>, Anastassia Vybornova<sup>1</sup>, Sándor Juhász<sup>3</sup>, Michael Szell<sup>1,2,3,4</sup>, Eszter Bokányi<sup>5</sup>
+No-paywall paper download: [arxiv.org/abs/2404.11596](https://arxiv.org/abs/2404.11596)
+
+Luca Maria Aiello<sup>1,2</sup>, Anastassia Vybornova<sup>1</sup>, Sándor Juhász<sup>3</sup>, Michael Szell<sup>1,2,3,4</sup>, Eszter Bokányi<sup>5</sup>
 
 1 IT University of Copenhagen, Copenhagen, 2300, Denmark
 
